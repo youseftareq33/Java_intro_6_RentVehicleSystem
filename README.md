@@ -6,12 +6,21 @@ This project reads and write data from/to two files:
 
 and can do multiple operation:
 1-Add Customer
+
 2-Add Vehicle
+
 3-Add cart
+
 4-Remove cart
+
 5-Request one
+
 6-Request two
+
 7-Return Vehicle
+
 8-Search Vehicle
+
 9-Sort Vehicle
+
 10-Sort Customer
