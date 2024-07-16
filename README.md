@@ -24,4 +24,4 @@ and can do multiple operation:
 
 9-Sort Vehicle
 
-10-Sort Customer
+10-Sort Custome
